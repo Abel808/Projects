@@ -1,0 +1,16 @@
+hr{
+    margin-top: 50px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+p{
+    display: inline-block;
+}
+
+.hide{
+    display: none;
+}
